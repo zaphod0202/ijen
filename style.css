@@ -1,0 +1,18 @@
+body {
+   background-color: #ffffee; 
+   color: black; 
+   padding: 20px;
+}
+ h1 {
+   font-family: Helvetica, Arial, sans-serif;
+}
+ p {
+   font-family: 'Andale Mono';
+}
+ a {
+ font-weight: 200;
+ font-family: Helvetica, Arial, sans-serif;
+ text-decoration: none;
+ text-transform: lowercase;
+ color: #151814;
+}
