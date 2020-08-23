@@ -16,3 +16,6 @@ body {
  text-transform: lowercase;
  color: #151814;
 }
+ a:visited {
+ color: #ff8080 ;
+}
